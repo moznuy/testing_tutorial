@@ -27,4 +27,4 @@ class StatsCollector:
 
 
 if __name__ == '__main__':
-    print(collect_stats('/home/lamar/.env/gallery'))
+    print(collect_stats('/usr/bin'))
